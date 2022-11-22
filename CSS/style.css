@@ -8,10 +8,7 @@ body{
   overflow-x: hidden;
 }
 
-.carousel-item img{
-  width: 100%;
-  height: 80vh;
-}
+
 .card-title{
   display: flex;
   justify-content: center;
