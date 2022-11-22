@@ -5,7 +5,7 @@
 
 ## Description
 
-This is a website of my PORTFOLIO.
+This is a website of my PORTFOLIO made by some of the Bootstrap components.
 I built this website to reach as many employer as possible.
 - Employers can look at my portfolio to understand better about my skills.
 - The goal here is to find a suitable job in front end development. 
