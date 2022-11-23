@@ -37,7 +37,7 @@ body{
   color: white;
   margin-right: 10%;
   text-align: center;
-  
-  
-  
 } 
+.hero-title h1{
+  color: red;
+}
