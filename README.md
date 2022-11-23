@@ -22,6 +22,7 @@ Please see below.
 ## Installation
 
 To access the website, please click the link below.
+(https://shahnoor-rashid.github.io/Bootstrap-Portfolio/)
 
 
 ## Usage
